@@ -10,11 +10,11 @@
 
 - 🔭 I have 5 star rating in C++ on HackerRank [https://www.hackerrank.com/shankarshirsat81](https://www.hackerrank.com/shankarshirsat81)
 
-- 🌱 I’m currently learning **Advanced C++ and DSA**
+- 🌱 I’m currently learning **Advanced Java and DSA**
 
 - 👨‍💻My Portfolio Website [file:///C:/Users/91876/Downloads/Portfolio%20Website/iPortfolio/index.html](file:///C:/Users/91876/Downloads/Portfolio%20Website/iPortfolio/index.html)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **shankarshirsat896@gmail.com**
 
