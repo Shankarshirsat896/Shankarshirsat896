@@ -1,9 +1,3 @@
-<h2 align="center">👨‍💻 I'm a Software Developer</h2>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Software Developer">
-</p>
-
-
 <h1 align="center">Hi 👋, I'm Shankar Shirsat</h1>
 <h3 align="center">A passionate Web and App Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
